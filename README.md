@@ -93,7 +93,7 @@ Results with `deepseek-flash` on 2026-11-01 (identical across the repeated runs 
 
 Read these numbers for what they are: synthetic data from one generator, and the prompt was adjusted once (currency) after the first run on these same sets. They show the pipeline works end to end; they are not an accuracy estimate for real-world invoices. The IMAP path was also tested end to end with real emails sent to a Gmail test inbox.
 
-Cost: the whole evaluation stayed under one US cent.
+Cost: all development and evaluation runs together cost about one US cent with `deepseek-flash`.
 
 ## Limitations
 
